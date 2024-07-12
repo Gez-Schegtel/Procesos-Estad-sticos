@@ -4,10 +4,10 @@
 #include<ctype.h>
 #include<stdlib.h>
 
-#define FILAS 22
-#define COLUMNAS 36
-#define ANIO_MIN 2000
-#define ANIO_MAX 2020
+#define FILAS 22 // Representa a los años, empezando la cuenta desde el 1 y tomando una fila más para los totales.
+#define COLUMNAS 36 // Representa a los países, empezando la cuentra desde el 1 y tomando una columna más para los totales.
+#define ANIO_MIN 2000 // Año desde donde se tomará en cuenta las estadísticas.
+#define ANIO_MAX 2020 // Año hasta donde se tomará en cuenta las estadísticas.
 
 int x, y, comp1, comp2, pais_user, ann_user;
 float val1, val2;
