@@ -13,6 +13,7 @@ Algunas cosas que estaría bueno que el programa tenga, por orden de importancia
 
 * Una forma de automatizar la entrada de datos, así no me tengo que tomar el (gran) trabajo de acomodar todos los datos en una planilla de cálculo.
 * Agregar un *log* de ejecución, almacenando todos los procesos que haya hecho el usuario.
+* ¡Agregar a Curazao!
 
 Algunas cosas que habría que testear un poco más a fondo:
 
