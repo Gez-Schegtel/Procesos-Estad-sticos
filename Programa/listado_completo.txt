@@ -1,0 +1,1226 @@
+Año >> 1990 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8175
+Año >> 1991 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9142
+Año >> 1992 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8523
+Año >> 1993 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8950
+Año >> 1994 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9867
+Año >> 1995 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9630
+Año >> 1996 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.1459
+Año >> 1997 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3721
+Año >> 1998 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.4419
+Año >> 1999 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.6648
+Año >> 2000 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.7344
+Año >> 2001 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.8548
+Año >> 2002 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.2671
+Año >> 2003 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.4893
+Año >> 2004 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.7080
+Año >> 2005 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.0089
+Año >> 2006 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.3852
+Año >> 2007 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.5209
+Año >> 2008 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.4684
+Año >> 2009 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.5873
+Año >> 2010 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.4123
+Año >> 2011 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.2933
+Año >> 2012 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.3512
+Año >> 2013 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.2921
+Año >> 2014 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.3631
+Año >> 2015 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.4761
+Año >> 2016 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.5938
+Año >> 2017 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.6338
+Año >> 2018 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.7168
+Año >> 2019 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.9600
+Año >> 2020 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.6818
+Año >> 2021 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.4003
+Año >> 2022 | País >> Antigua y Barbuda | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.4219
+Total de emisiones en Antigua y Barbuda >> 183.6742
+
+Año >> 1990 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.4340
+Año >> 1991 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.5494
+Año >> 1992 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.6115
+Año >> 1993 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.4613
+Año >> 1994 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.4350
+Año >> 1995 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.5838
+Año >> 1996 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.7055
+Año >> 1997 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8118
+Año >> 1998 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8364
+Año >> 1999 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0290
+Año >> 2000 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8512
+Año >> 2001 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.5865
+Año >> 2002 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.2851
+Año >> 2003 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.5005
+Año >> 2004 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0527
+Año >> 2005 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.1256
+Año >> 2006 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.4130
+Año >> 2007 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3505
+Año >> 2008 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.6493
+Año >> 2009 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3779
+Año >> 2010 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5220
+Año >> 2011 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5682
+Año >> 2012 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5597
+Año >> 2013 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.4715
+Año >> 2014 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3993
+Año >> 2015 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.4327
+Año >> 2016 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3492
+Año >> 2017 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2424
+Año >> 2018 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0663
+Año >> 2019 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9895
+Año >> 2020 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.7055
+Año >> 2021 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.1908
+Año >> 2022 | País >> Argentina | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2378
+Total de emisiones en Argentina >> 132.3849
+
+Año >> 1990 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 7.4717
+Año >> 1991 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 7.2332
+Año >> 1992 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.6268
+Año >> 1993 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.0522
+Año >> 1994 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.0193
+Año >> 1995 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.1400
+Año >> 1996 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.9476
+Año >> 1997 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.1856
+Año >> 1998 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.3078
+Año >> 1999 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.3492
+Año >> 2000 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.2338
+Año >> 2001 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.9022
+Año >> 2002 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.0991
+Año >> 2003 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.1156
+Año >> 2004 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.9697
+Año >> 2005 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.4779
+Año >> 2006 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.2570
+Año >> 2007 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.2346
+Año >> 2008 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.2818
+Año >> 2009 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.8534
+Año >> 2010 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.9680
+Año >> 2011 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.5936
+Año >> 2012 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.3703
+Año >> 2013 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.2633
+Año >> 2014 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.4894
+Año >> 2015 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.7194
+Año >> 2016 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.5795
+Año >> 2017 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.2899
+Año >> 2018 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.0260
+Año >> 2019 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.0680
+Año >> 2020 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.3724
+Año >> 2021 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.1497
+Año >> 2022 | País >> Bahamas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.1709
+Total de emisiones en Bahamas >> 193.8189
+
+Año >> 1990 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.9263
+Año >> 1991 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.4668
+Año >> 1992 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.2332
+Año >> 1993 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2026
+Año >> 1994 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.4457
+Año >> 1995 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.8910
+Año >> 1996 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.0950
+Año >> 1997 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.8519
+Año >> 1998 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.9630
+Año >> 1999 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.2587
+Año >> 2000 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.6077
+Año >> 2001 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.2245
+Año >> 2002 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.2205
+Año >> 2003 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.3530
+Año >> 2004 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.4063
+Año >> 2005 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.5401
+Año >> 2006 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.5640
+Año >> 2007 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.6390
+Año >> 2008 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 7.6343
+Año >> 2009 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 7.3051
+Año >> 2010 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.7162
+Año >> 2011 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 7.0472
+Año >> 2012 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.5290
+Año >> 2013 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.5809
+Año >> 2014 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.0903
+Año >> 2015 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.0641
+Año >> 2016 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.0781
+Año >> 2017 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.8904
+Año >> 2018 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.9191
+Año >> 2019 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.9485
+Año >> 2020 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3945
+Año >> 2021 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3612
+Año >> 2022 | País >> Barbados | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3773
+Total de emisiones en Barbados >> 194.8255
+
+Año >> 1990 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7056
+Año >> 1991 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1810
+Año >> 1992 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8675
+Año >> 1993 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9434
+Año >> 1994 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8834
+Año >> 1995 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8539
+Año >> 1996 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4666
+Año >> 1997 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7887
+Año >> 1998 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6453
+Año >> 1999 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4955
+Año >> 2000 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6459
+Año >> 2001 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8017
+Año >> 2002 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6889
+Año >> 2003 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6377
+Año >> 2004 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4406
+Año >> 2005 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5028
+Año >> 2006 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5354
+Año >> 2007 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6028
+Año >> 2008 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4263
+Año >> 2009 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6444
+Año >> 2010 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6721
+Año >> 2011 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6789
+Año >> 2012 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3370
+Año >> 2013 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2756
+Año >> 2014 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3311
+Año >> 2015 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7817
+Año >> 2016 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7057
+Año >> 2017 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6428
+Año >> 2018 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5823
+Año >> 2019 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8174
+Año >> 2020 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5530
+Año >> 2021 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7550
+Año >> 2022 | País >> Belize | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7894
+Total de emisiones en Belize >> 54.6794
+
+Año >> 1990 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4102
+Año >> 1991 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4486
+Año >> 1992 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4895
+Año >> 1993 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5310
+Año >> 1994 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2527
+Año >> 1995 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1499
+Año >> 1996 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2537
+Año >> 1997 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4404
+Año >> 1998 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3578
+Año >> 1999 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2963
+Año >> 2000 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9815
+Año >> 2001 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9996
+Año >> 2002 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1688
+Año >> 2003 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2109
+Año >> 2004 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1970
+Año >> 2005 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3130
+Año >> 2006 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2923
+Año >> 2007 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3073
+Año >> 2008 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3122
+Año >> 2009 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3469
+Año >> 2010 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4397
+Año >> 2011 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5341
+Año >> 2012 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6590
+Año >> 2013 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6540
+Año >> 2014 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8217
+Año >> 2015 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7932
+Año >> 2016 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8858
+Año >> 2017 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9388
+Año >> 2018 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9386
+Año >> 2019 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9194
+Año >> 2020 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5354
+Año >> 2021 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7986
+Año >> 2022 | País >> Bolivia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7583
+Total de emisiones en Bolivia >> 48.4362
+
+Año >> 1990 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4509
+Año >> 1991 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4960
+Año >> 1992 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4984
+Año >> 1993 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5419
+Año >> 1994 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5778
+Año >> 1995 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6431
+Año >> 1996 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7424
+Año >> 1997 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8212
+Año >> 1998 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8555
+Año >> 1999 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8864
+Año >> 2000 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9342
+Año >> 2001 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9424
+Año >> 2002 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9269
+Año >> 2003 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8871
+Año >> 2004 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9566
+Año >> 2005 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9506
+Año >> 2006 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9536
+Año >> 2007 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0472
+Año >> 2008 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1417
+Año >> 2009 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0038
+Año >> 2010 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2422
+Año >> 2011 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3341
+Año >> 2012 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4918
+Año >> 2013 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6394
+Año >> 2014 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7421
+Año >> 2015 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5798
+Año >> 2016 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3820
+Año >> 2017 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3842
+Año >> 2018 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2744
+Año >> 2019 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2356
+Año >> 2020 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0850
+Año >> 2021 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3199
+Año >> 2022 | País >> Brasil | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2455
+Total de emisiones en Brasil >> 67.2137
+
+Año >> 1990 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.5781
+Año >> 1991 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.0681
+Año >> 1992 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.3687
+Año >> 1993 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.2045
+Año >> 1994 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.5291
+Año >> 1995 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.7919
+Año >> 1996 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.1724
+Año >> 1997 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.4876
+Año >> 1998 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.5910
+Año >> 1999 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.9107
+Año >> 2000 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 18.4822
+Año >> 2001 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 18.0354
+Año >> 2002 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 18.0182
+Año >> 2003 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 18.3883
+Año >> 2004 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 18.1654
+Año >> 2005 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.8410
+Año >> 2006 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.4778
+Año >> 2007 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 18.0679
+Año >> 2008 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.3641
+Año >> 2009 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.1976
+Año >> 2010 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.3724
+Año >> 2011 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.4684
+Año >> 2012 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.3088
+Año >> 2013 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.2430
+Año >> 2014 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 15.9966
+Año >> 2015 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 15.9711
+Año >> 2016 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 15.4427
+Año >> 2017 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 15.5016
+Año >> 2018 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 15.5815
+Año >> 2019 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 15.4197
+Año >> 2020 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 13.7995
+Año >> 2021 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 14.0787
+Año >> 2022 | País >> Canadá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 14.2492
+Total de emisiones en Canadá >> 548.1732
+
+Año >> 1990 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4663
+Año >> 1991 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2778
+Año >> 1992 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3219
+Año >> 1993 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4358
+Año >> 1994 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6723
+Año >> 1995 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8829
+Año >> 1996 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.2997
+Año >> 1997 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.7775
+Año >> 1998 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8181
+Año >> 1999 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0463
+Año >> 2000 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8108
+Año >> 2001 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.4088
+Año >> 2002 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.4941
+Año >> 2003 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.4744
+Año >> 2004 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.6976
+Año >> 2005 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.7791
+Año >> 2006 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9212
+Año >> 2007 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2725
+Año >> 2008 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2345
+Año >> 2009 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9184
+Año >> 2010 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.1959
+Año >> 2011 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5460
+Año >> 2012 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5913
+Año >> 2013 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.6680
+Año >> 2014 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3868
+Año >> 2015 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5765
+Año >> 2016 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.6589
+Año >> 2017 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5806
+Año >> 2018 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5151
+Año >> 2019 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.8309
+Año >> 2020 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.1542
+Año >> 2021 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5676
+Año >> 2022 | País >> Chile | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3042
+Total de emisiones en Chile >> 126.5860
+
+Año >> 1990 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7453
+Año >> 1991 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7027
+Año >> 1992 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8119
+Año >> 1993 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8298
+Año >> 1994 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8993
+Año >> 1995 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6519
+Año >> 1996 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6355
+Año >> 1997 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7499
+Año >> 1998 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7341
+Año >> 1999 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4378
+Año >> 2000 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4431
+Año >> 2001 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4270
+Año >> 2002 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3818
+Año >> 2003 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3975
+Año >> 2004 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3121
+Año >> 2005 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4249
+Año >> 2006 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4566
+Año >> 2007 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3968
+Año >> 2008 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5283
+Año >> 2009 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6352
+Año >> 2010 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7018
+Año >> 2011 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6823
+Año >> 2012 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7530
+Año >> 2013 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9055
+Año >> 2014 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1056
+Año >> 2015 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0538
+Año >> 2016 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0931
+Año >> 2017 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9084
+Año >> 2018 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7678
+Año >> 2019 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8829
+Año >> 2020 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7618
+Año >> 2021 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8589
+Año >> 2022 | País >> Colombia | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9223
+Total de emisiones en Colombia >> 55.9987
+
+Año >> 1990 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9223
+Año >> 1991 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0150
+Año >> 1992 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1264
+Año >> 1993 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1426
+Año >> 1994 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4903
+Año >> 1995 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3437
+Año >> 1996 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2817
+Año >> 1997 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3147
+Año >> 1998 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3697
+Año >> 1999 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3938
+Año >> 2000 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3555
+Año >> 2001 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3980
+Año >> 2002 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5149
+Año >> 2003 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5715
+Año >> 2004 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6087
+Año >> 2005 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5578
+Año >> 2006 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6004
+Año >> 2007 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7930
+Año >> 2008 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7748
+Año >> 2009 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6979
+Año >> 2010 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6210
+Año >> 2011 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5622
+Año >> 2012 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5328
+Año >> 2013 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5927
+Año >> 2014 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5995
+Año >> 2015 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5129
+Año >> 2016 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5886
+Año >> 2017 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6078
+Año >> 2018 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5895
+Año >> 2019 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5141
+Año >> 2020 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3201
+Año >> 2021 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4853
+Año >> 2022 | País >> Costa Rica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5227
+Total de emisiones en Costa Rica >> 48.3219
+
+Año >> 1990 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7900
+Año >> 1991 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5360
+Año >> 1992 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9096
+Año >> 1993 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8285
+Año >> 1994 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9640
+Año >> 1995 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0898
+Año >> 1996 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1283
+Año >> 1997 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2557
+Año >> 1998 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2018
+Año >> 1999 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2102
+Año >> 2000 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3209
+Año >> 2001 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2637
+Año >> 2002 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2850
+Año >> 2003 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3165
+Año >> 2004 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2468
+Año >> 2005 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3307
+Año >> 2006 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3816
+Año >> 2007 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3252
+Año >> 2008 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4926
+Año >> 2009 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5167
+Año >> 2010 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.0291
+Año >> 2011 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6048
+Año >> 2012 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6384
+Año >> 2013 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4842
+Año >> 2014 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4363
+Año >> 2015 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5987
+Año >> 2016 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4838
+Año >> 2017 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2007
+Año >> 2018 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0421
+Año >> 2019 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9987
+Año >> 2020 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8828
+Año >> 2021 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8603
+Año >> 2022 | País >> Cuba | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8659
+Total de emisiones en Cuba >> 75.5194
+
+Año >> 1990 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8435
+Año >> 1991 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8475
+Año >> 1992 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8480
+Año >> 1993 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9002
+Año >> 1994 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0057
+Año >> 1995 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1645
+Año >> 1996 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0592
+Año >> 1997 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1666
+Año >> 1998 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1158
+Año >> 1999 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1731
+Año >> 2000 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5007
+Año >> 2001 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6124
+Año >> 2002 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5025
+Año >> 2003 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7127
+Año >> 2004 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0833
+Año >> 2005 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1871
+Año >> 2006 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0782
+Año >> 2007 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5034
+Año >> 2008 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4500
+Año >> 2009 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7158
+Año >> 2010 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5039
+Año >> 2011 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2381
+Año >> 2012 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3928
+Año >> 2013 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2887
+Año >> 2014 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3762
+Año >> 2015 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5115
+Año >> 2016 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4567
+Año >> 2017 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1852
+Año >> 2018 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2758
+Año >> 2019 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4103
+Año >> 2020 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1879
+Año >> 2021 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0960
+Año >> 2022 | País >> Dominica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1059
+Total de emisiones en Dominica >> 60.4992
+
+Año >> 1990 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5749
+Año >> 1991 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5120
+Año >> 1992 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0120
+Año >> 1993 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1637
+Año >> 1994 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2608
+Año >> 1995 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0324
+Año >> 1996 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1486
+Año >> 1997 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6207
+Año >> 1998 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8927
+Año >> 1999 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7706
+Año >> 2000 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6574
+Año >> 2001 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8223
+Año >> 2002 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8995
+Año >> 2003 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0353
+Año >> 2004 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1617
+Año >> 2005 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2215
+Año >> 2006 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1193
+Año >> 2007 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4052
+Año >> 2008 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0911
+Año >> 2009 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2790
+Año >> 2010 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4201
+Año >> 2011 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5111
+Año >> 2012 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4160
+Año >> 2013 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5221
+Año >> 2014 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7404
+Año >> 2015 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5485
+Año >> 2016 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3940
+Año >> 2017 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3462
+Año >> 2018 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2585
+Año >> 2019 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3101
+Año >> 2020 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8711
+Año >> 2021 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2324
+Año >> 2022 | País >> Ecuador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3117
+Total de emisiones en Ecuador >> 69.5629
+
+Año >> 1990 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.4611
+Año >> 1991 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5777
+Año >> 1992 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5974
+Año >> 1993 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7060
+Año >> 1994 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7927
+Año >> 1995 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8696
+Año >> 1996 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7615
+Año >> 1997 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9269
+Año >> 1998 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9738
+Año >> 1999 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9433
+Año >> 2000 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9517
+Año >> 2001 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9782
+Año >> 2002 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0097
+Año >> 2003 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0677
+Año >> 2004 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0361
+Año >> 2005 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0430
+Año >> 2006 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1132
+Año >> 2007 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1326
+Año >> 2008 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0555
+Año >> 2009 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0363
+Año >> 2010 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0335
+Año >> 2011 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0590
+Año >> 2012 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0504
+Año >> 2013 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9853
+Año >> 2014 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9906
+Año >> 2015 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0701
+Año >> 2016 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0552
+Año >> 2017 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9526
+Año >> 2018 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9978
+Año >> 2019 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2021
+Año >> 2020 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0480
+Año >> 2021 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1858
+Año >> 2022 | País >> El Salvador | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2175
+Total de emisiones en El Salvador >> 31.8819
+
+Año >> 1990 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.6421
+Año >> 1991 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.1262
+Año >> 1992 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.2771
+Año >> 1993 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.3758
+Año >> 1994 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.4530
+Año >> 1995 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.4218
+Año >> 1996 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.8673
+Año >> 1997 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.8819
+Año >> 1998 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.7852
+Año >> 1999 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.7890
+Año >> 2000 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 21.2825
+Año >> 2001 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.6947
+Año >> 2002 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.6218
+Año >> 2003 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.6456
+Año >> 2004 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.7950
+Año >> 2005 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.6580
+Año >> 2006 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.1922
+Año >> 2007 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 20.2486
+Año >> 2008 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 19.3497
+Año >> 2009 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.7650
+Año >> 2010 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 18.2520
+Año >> 2011 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.6697
+Año >> 2012 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.8769
+Año >> 2013 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.1590
+Año >> 2014 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.1680
+Año >> 2015 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.5630
+Año >> 2016 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.0537
+Año >> 2017 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 15.8044
+Año >> 2018 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 16.1914
+Año >> 2019 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 15.7399
+Año >> 2020 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 14.0341
+Año >> 2021 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 14.9325
+Año >> 2022 | País >> Estados Unidos | Emisiones de CO2 per cápita (metrics tons per cápita) >> 14.9496
+Total de emisiones en Estados Unidos >> 619.2667
+
+Año >> 1990 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0726
+Año >> 1991 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1016
+Año >> 1992 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1603
+Año >> 1993 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1832
+Año >> 1994 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3847
+Año >> 1995 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4434
+Año >> 1996 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4675
+Año >> 1997 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5966
+Año >> 1998 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6558
+Año >> 1999 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8176
+Año >> 2000 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7733
+Año >> 2001 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7990
+Año >> 2002 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8955
+Año >> 2003 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9878
+Año >> 2004 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8733
+Año >> 2005 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9605
+Año >> 2006 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0795
+Año >> 2007 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1314
+Año >> 2008 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2473
+Año >> 2009 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2322
+Año >> 2010 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2808
+Año >> 2011 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1997
+Año >> 2012 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3388
+Año >> 2013 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6003
+Año >> 2014 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9875
+Año >> 2015 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1862
+Año >> 2016 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2294
+Año >> 2017 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3026
+Año >> 2018 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5258
+Año >> 2019 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6867
+Año >> 2020 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3405
+Año >> 2021 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6467
+Año >> 2022 | País >> Granada | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7134
+Total de emisiones en Granada >> 64.9015
+
+Año >> 1990 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5473
+Año >> 1991 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5307
+Año >> 1992 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6181
+Año >> 1993 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5673
+Año >> 1994 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6688
+Año >> 1995 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6831
+Año >> 1996 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6180
+Año >> 1997 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6879
+Año >> 1998 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7725
+Año >> 1999 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7682
+Año >> 2000 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8320
+Año >> 2001 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8521
+Año >> 2002 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8724
+Año >> 2003 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8311
+Año >> 2004 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8699
+Año >> 2005 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9221
+Año >> 2006 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9079
+Año >> 2007 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8867
+Año >> 2008 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7792
+Año >> 2009 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8024
+Año >> 2010 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7631
+Año >> 2011 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7576
+Año >> 2012 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7652
+Año >> 2013 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8307
+Año >> 2014 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8799
+Año >> 2015 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9969
+Año >> 2016 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0390
+Año >> 2017 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0447
+Año >> 2018 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0980
+Año >> 2019 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1400
+Año >> 2020 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9985
+Año >> 2021 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1178
+Año >> 2022 | País >> Guatemala | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0756
+Total de emisiones en Guatemala >> 27.5247
+
+Año >> 1990 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5105
+Año >> 1991 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4871
+Año >> 1992 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3967
+Año >> 1993 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3975
+Año >> 1994 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9455
+Año >> 1995 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0862
+Año >> 1996 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1928
+Año >> 1997 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3918
+Año >> 1998 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4162
+Año >> 1999 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4168
+Año >> 2000 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3025
+Año >> 2001 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2954
+Año >> 2002 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2553
+Año >> 2003 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4424
+Año >> 2004 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5344
+Año >> 2005 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1317
+Año >> 2006 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9905
+Año >> 2007 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3538
+Año >> 2008 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2640
+Año >> 2009 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5410
+Año >> 2010 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5229
+Año >> 2011 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6339
+Año >> 2012 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6348
+Año >> 2013 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5491
+Año >> 2014 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6254
+Año >> 2015 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6533
+Año >> 2016 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.1283
+Año >> 2017 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.0485
+Año >> 2018 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.1864
+Año >> 2019 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.4501
+Año >> 2020 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9994
+Año >> 2021 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.4296
+Año >> 2022 | País >> Guyana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3737
+Total de emisiones en Guyana >> 83.5875
+
+Año >> 1990 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1437
+Año >> 1991 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1381
+Año >> 1992 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1233
+Año >> 1993 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.0931
+Año >> 1994 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.0245
+Año >> 1995 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1148
+Año >> 1996 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1311
+Año >> 1997 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1704
+Año >> 1998 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1532
+Año >> 1999 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1549
+Año >> 2000 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1955
+Año >> 2001 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1729
+Año >> 2002 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2061
+Año >> 2003 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1929
+Año >> 2004 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1843
+Año >> 2005 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1892
+Año >> 2006 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1891
+Año >> 2007 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1881
+Año >> 2008 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1839
+Año >> 2009 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.1941
+Año >> 2010 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2171
+Año >> 2011 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2283
+Año >> 2012 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2240
+Año >> 2013 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2637
+Año >> 2014 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2597
+Año >> 2015 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2519
+Año >> 2016 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2781
+Año >> 2017 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2890
+Año >> 2018 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.3097
+Año >> 2019 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2770
+Año >> 2020 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2222
+Año >> 2021 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2119
+Año >> 2022 | País >> Haití | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.2112
+Total de emisiones en Haití >> 6.3870
+
+Año >> 1990 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.4957
+Año >> 1991 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.4862
+Año >> 1992 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5245
+Año >> 1993 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5350
+Año >> 1994 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5716
+Año >> 1995 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6600
+Año >> 1996 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6485
+Año >> 1997 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6527
+Año >> 1998 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7626
+Año >> 1999 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7263
+Año >> 2000 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7559
+Año >> 2001 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8285
+Año >> 2002 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8469
+Año >> 2003 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9285
+Año >> 2004 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9744
+Año >> 2005 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9035
+Año >> 2006 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9939
+Año >> 2007 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0368
+Año >> 2008 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0532
+Año >> 2009 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9702
+Año >> 2010 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9462
+Año >> 2011 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0276
+Año >> 2012 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0484
+Año >> 2013 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0451
+Año >> 2014 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0387
+Año >> 2015 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1133
+Año >> 2016 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0276
+Año >> 2017 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0628
+Año >> 2018 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0070
+Año >> 2019 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1265
+Año >> 2020 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9412
+Año >> 2021 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0541
+Año >> 2022 | País >> Honduras | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0697
+Total de emisiones en Honduras >> 28.8631
+
+Año >> 1990 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.1468
+Año >> 1991 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.2137
+Año >> 1992 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.1663
+Año >> 1993 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.2537
+Año >> 1994 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.2963
+Año >> 1995 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.6557
+Año >> 1996 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8247
+Año >> 1997 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9407
+Año >> 1998 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.7624
+Año >> 1999 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8356
+Año >> 2000 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9484
+Año >> 2001 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0285
+Año >> 2002 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8672
+Año >> 2003 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0237
+Año >> 2004 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9693
+Año >> 2005 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8913
+Año >> 2006 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3043
+Año >> 2007 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9794
+Año >> 2008 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9757
+Año >> 2009 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.9143
+Año >> 2010 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8082
+Año >> 2011 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.0062
+Año >> 2012 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8672
+Año >> 2013 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.0623
+Año >> 2014 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7644
+Año >> 2015 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8624
+Año >> 2016 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.9127
+Año >> 2017 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7765
+Año >> 2018 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8758
+Año >> 2019 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7804
+Año >> 2020 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2913
+Año >> 2021 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3370
+Año >> 2022 | País >> Jamaica | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2946
+Total de emisiones en Jamaica >> 109.6370
+
+Año >> 1990 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8796
+Año >> 1991 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9607
+Año >> 1992 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9154
+Año >> 1993 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9016
+Año >> 1994 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9840
+Año >> 1995 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.6806
+Año >> 1996 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.7316
+Año >> 1997 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8921
+Año >> 1998 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0236
+Año >> 1999 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0097
+Año >> 2000 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0024
+Año >> 2001 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.1022
+Año >> 2002 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0678
+Año >> 2003 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2583
+Año >> 2004 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2214
+Año >> 2005 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3971
+Año >> 2006 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.4416
+Año >> 2007 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3743
+Año >> 2008 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3133
+Año >> 2009 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.1461
+Año >> 2010 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0575
+Año >> 2011 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2348
+Año >> 2012 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3330
+Año >> 2013 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2244
+Año >> 2014 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0765
+Año >> 2015 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9910
+Año >> 2016 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.9483
+Año >> 2017 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.7905
+Año >> 2018 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.7922
+Año >> 2019 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.7440
+Año >> 2020 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.5103
+Año >> 2021 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.6999
+Año >> 2022 | País >> México | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.0153
+Total de emisiones en México >> 132.7211
+
+Año >> 1990 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.4835
+Año >> 1991 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.4590
+Año >> 1992 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5359
+Año >> 1993 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5042
+Año >> 1994 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5444
+Año >> 1995 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5835
+Año >> 1996 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5916
+Año >> 1997 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6361
+Año >> 1998 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6820
+Año >> 1999 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7123
+Año >> 2000 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7264
+Año >> 2001 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7552
+Año >> 2002 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7587
+Año >> 2003 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8144
+Año >> 2004 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8128
+Año >> 2005 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7828
+Año >> 2006 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7990
+Año >> 2007 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8115
+Año >> 2008 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7675
+Año >> 2009 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7703
+Año >> 2010 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7630
+Año >> 2011 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8087
+Año >> 2012 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7544
+Año >> 2013 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7526
+Año >> 2014 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7643
+Año >> 2015 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8622
+Año >> 2016 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8461
+Año >> 2017 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8427
+Año >> 2018 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7911
+Año >> 2019 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7837
+Año >> 2020 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7029
+Año >> 2021 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7859
+Año >> 2022 | País >> Nicaragua | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7988
+Total de emisiones en Nicaragua >> 23.7875
+
+Año >> 1990 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0743
+Año >> 1991 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2408
+Año >> 1992 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6099
+Año >> 1993 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4516
+Año >> 1994 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5696
+Año >> 1995 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3449
+Año >> 1996 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6044
+Año >> 1997 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6372
+Año >> 1998 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0452
+Año >> 1999 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9103
+Año >> 2000 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9084
+Año >> 2001 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2715
+Año >> 2002 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8651
+Año >> 2003 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9141
+Año >> 2004 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7608
+Año >> 2005 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1088
+Año >> 2006 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2336
+Año >> 2007 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1417
+Año >> 2008 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0984
+Año >> 2009 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3770
+Año >> 2010 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5036
+Año >> 2011 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6982
+Año >> 2012 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6014
+Año >> 2013 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7510
+Año >> 2014 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7915
+Año >> 2015 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7263
+Año >> 2016 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5926
+Año >> 2017 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7400
+Año >> 2018 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5823
+Año >> 2019 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.1614
+Año >> 2020 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4041
+Año >> 2021 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6906
+Año >> 2022 | País >> Panamá | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6993
+Total de emisiones en Panamá >> 71.1099
+
+Año >> 1990 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5261
+Año >> 1991 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.5047
+Año >> 1992 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6032
+Año >> 1993 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6644
+Año >> 1994 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7573
+Año >> 1995 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8552
+Año >> 1996 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7893
+Año >> 1997 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8567
+Año >> 1998 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8904
+Año >> 1999 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8707
+Año >> 2000 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7038
+Año >> 2001 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7091
+Año >> 2002 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7296
+Año >> 2003 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7531
+Año >> 2004 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7498
+Año >> 2005 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.6902
+Año >> 2006 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7062
+Año >> 2007 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7230
+Año >> 2008 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7578
+Año >> 2009 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7946
+Año >> 2010 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8705
+Año >> 2011 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8896
+Año >> 2012 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8734
+Año >> 2013 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8612
+Año >> 2014 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8962
+Año >> 2015 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9789
+Año >> 2016 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1479
+Año >> 2017 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2481
+Año >> 2018 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3038
+Año >> 2019 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2460
+Año >> 2020 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1129
+Año >> 2021 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3820
+Año >> 2022 | País >> Paraguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3299
+Total de emisiones en Paraguay >> 28.7756
+
+Año >> 1990 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9680
+Año >> 1991 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9192
+Año >> 1992 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9106
+Año >> 1993 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0158
+Año >> 1994 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0081
+Año >> 1995 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0284
+Año >> 1996 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9924
+Año >> 1997 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0939
+Año >> 1998 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0869
+Año >> 1999 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1261
+Año >> 2000 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0759
+Año >> 2001 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9408
+Año >> 2002 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9307
+Año >> 2003 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.8933
+Año >> 2004 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0158
+Año >> 2005 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0772
+Año >> 2006 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9935
+Año >> 2007 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1995
+Año >> 2008 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2254
+Año >> 2009 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3620
+Año >> 2010 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4542
+Año >> 2011 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4307
+Año >> 2012 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5297
+Año >> 2013 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4323
+Año >> 2014 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6271
+Año >> 2015 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6029
+Año >> 2016 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6938
+Año >> 2017 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7357
+Año >> 2018 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7342
+Año >> 2019 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7781
+Año >> 2020 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4102
+Año >> 2021 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6749
+Año >> 2022 | País >> Perú | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7892
+Total de emisiones en Perú >> 41.7565
+
+Año >> 1990 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2535
+Año >> 1991 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3105
+Año >> 1992 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4027
+Año >> 1993 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4795
+Año >> 1994 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5273
+Año >> 1995 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9196
+Año >> 1996 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0574
+Año >> 1997 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1185
+Año >> 1998 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1478
+Año >> 1999 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1187
+Año >> 2000 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2236
+Año >> 2001 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2084
+Año >> 2002 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3819
+Año >> 2003 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3930
+Año >> 2004 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9167
+Año >> 2005 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9576
+Año >> 2006 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0586
+Año >> 2007 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1264
+Año >> 2008 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1350
+Año >> 2009 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0502
+Año >> 2010 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1025
+Año >> 2011 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1525
+Año >> 2012 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1189
+Año >> 2013 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0938
+Año >> 2014 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1202
+Año >> 2015 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2578
+Año >> 2016 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3410
+Año >> 2017 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2557
+Año >> 2018 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3925
+Año >> 2019 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6075
+Año >> 2020 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1366
+Año >> 2021 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1393
+Año >> 2022 | País >> República Dominicana | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1051
+Total de emisiones en República Dominicana >> 67.6103
+
+Año >> 1990 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6131
+Año >> 1991 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6196
+Año >> 1992 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6860
+Año >> 1993 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7389
+Año >> 1994 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8769
+Año >> 1995 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.0120
+Año >> 1996 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.0590
+Año >> 1997 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.2714
+Año >> 1998 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.3944
+Año >> 1999 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.5944
+Año >> 2000 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.7855
+Año >> 2001 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.8222
+Año >> 2002 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2745
+Año >> 2003 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2590
+Año >> 2004 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5601
+Año >> 2005 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2320
+Año >> 2006 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2968
+Año >> 2007 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5958
+Año >> 2008 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5819
+Año >> 2009 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.7242
+Año >> 2010 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.6351
+Año >> 2011 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.8489
+Año >> 2012 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.6036
+Año >> 2013 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.6765
+Año >> 2014 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.8275
+Año >> 2015 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.9043
+Año >> 2016 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.9810
+Año >> 2017 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.0579
+Año >> 2018 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.1371
+Año >> 2019 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.2958
+Año >> 2020 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.8427
+Año >> 2021 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.6700
+Año >> 2022 | País >> San Cristóbal y Nieves | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.7081
+Total de emisiones en San Cristóbal y Nieves >> 136.1862
+
+Año >> 1990 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7165
+Año >> 1991 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7471
+Año >> 1992 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.7442
+Año >> 1993 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 0.9028
+Año >> 1994 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.0610
+Año >> 1995 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1231
+Año >> 1996 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1540
+Año >> 1997 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.1541
+Año >> 1998 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4120
+Año >> 1999 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4462
+Año >> 2000 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2875
+Año >> 2001 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5797
+Año >> 2002 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6469
+Año >> 2003 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7491
+Año >> 2004 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9520
+Año >> 2005 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9619
+Año >> 2006 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9398
+Año >> 2007 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1157
+Año >> 2008 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9925
+Año >> 2009 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5349
+Año >> 2010 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0109
+Año >> 2011 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9883
+Año >> 2012 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1353
+Año >> 2013 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0456
+Año >> 2014 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3642
+Año >> 2015 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2020
+Año >> 2016 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2820
+Año >> 2017 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0477
+Año >> 2018 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2966
+Año >> 2019 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1647
+Año >> 2020 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3459
+Año >> 2021 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2672
+Año >> 2022 | País >> San Vicente y las Granadinas | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2965
+Total de emisiones en San Vicente y las Granadinas >> 57.6679
+
+Año >> 1990 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2615
+Año >> 1991 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3205
+Año >> 1992 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4513
+Año >> 1993 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5779
+Año >> 1994 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7277
+Año >> 1995 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8035
+Año >> 1996 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9036
+Año >> 1997 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9089
+Año >> 1998 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0787
+Año >> 1999 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1298
+Año >> 2000 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1821
+Año >> 2001 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2357
+Año >> 2002 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2190
+Año >> 2003 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3144
+Año >> 2004 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4538
+Año >> 2005 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3482
+Año >> 2006 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4650
+Año >> 2007 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5371
+Año >> 2008 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5211
+Año >> 2009 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5046
+Año >> 2010 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8506
+Año >> 2011 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8306
+Año >> 2012 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8357
+Año >> 2013 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8008
+Año >> 2014 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7666
+Año >> 2015 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7328
+Año >> 2016 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6998
+Año >> 2017 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7711
+Año >> 2018 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8629
+Año >> 2019 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.8107
+Año >> 2020 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6983
+Año >> 2021 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5941
+Año >> 2022 | País >> Santa Lucía | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.6149
+Total de emisiones en Santa Lucía >> 76.8133
+
+Año >> 1990 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.2091
+Año >> 1991 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.8635
+Año >> 1992 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.8398
+Año >> 1993 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.8244
+Año >> 1994 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.7878
+Año >> 1995 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.7424
+Año >> 1996 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.6920
+Año >> 1997 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.6467
+Año >> 1998 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5575
+Año >> 1999 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5120
+Año >> 2000 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5768
+Año >> 2001 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.8478
+Año >> 2002 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.1474
+Año >> 2003 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.0524
+Año >> 2004 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.0470
+Año >> 2005 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.0772
+Año >> 2006 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.3304
+Año >> 2007 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.3267
+Año >> 2008 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.6176
+Año >> 2009 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.6865
+Año >> 2010 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3401
+Año >> 2011 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.9896
+Año >> 2012 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.4652
+Año >> 2013 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.5810
+Año >> 2014 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.6183
+Año >> 2015 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.7150
+Año >> 2016 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.0231
+Año >> 2017 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.1296
+Año >> 2018 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.5190
+Año >> 2019 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.3908
+Año >> 2020 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.8066
+Año >> 2021 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.0076
+Año >> 2022 | País >> Surinam | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.8030
+Total de emisiones en Surinam >> 145.7739
+
+Año >> 1990 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 13.4077
+Año >> 1991 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 13.2955
+Año >> 1992 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 14.8601
+Año >> 1993 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 13.4555
+Año >> 1994 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 11.7945
+Año >> 1995 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 11.2648
+Año >> 1996 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 14.0534
+Año >> 1997 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 14.3465
+Año >> 1998 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 15.0503
+Año >> 1999 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 17.0258
+Año >> 2000 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 18.2902
+Año >> 2001 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 19.9887
+Año >> 2002 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 21.3242
+Año >> 2003 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 23.9306
+Año >> 2004 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 24.0316
+Año >> 2005 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 27.9216
+Año >> 2006 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 31.0306
+Año >> 2007 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 32.9146
+Año >> 2008 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 31.9245
+Año >> 2009 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 31.7172
+Año >> 2010 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 33.4056
+Año >> 2011 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 33.1455
+Año >> 2012 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 32.2823
+Año >> 2013 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 31.8058
+Año >> 2014 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 32.3243
+Año >> 2015 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 31.2014
+Año >> 2016 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 27.1505
+Año >> 2017 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 27.2673
+Año >> 2018 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 26.8012
+Año >> 2019 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 26.8315
+Año >> 2020 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 23.0740
+Año >> 2021 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 23.2897
+Año >> 2022 | País >> Trinidad y Tobago | Emisiones de CO2 per cápita (metrics tons per cápita) >> 22.4238
+Total de emisiones en Trinidad y Tobago >> 772.6308
+
+Año >> 1990 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2728
+Año >> 1991 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4441
+Año >> 1992 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6307
+Año >> 1993 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3996
+Año >> 1994 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.2635
+Año >> 1995 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.4204
+Año >> 1996 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6752
+Año >> 1997 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6991
+Año >> 1998 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7283
+Año >> 1999 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.0379
+Año >> 2000 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6001
+Año >> 2001 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.5239
+Año >> 2002 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3784
+Año >> 2003 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.3676
+Año >> 2004 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.6793
+Año >> 2005 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7261
+Año >> 2006 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9857
+Año >> 2007 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.7868
+Año >> 2008 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.4584
+Año >> 2009 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3763
+Año >> 2010 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8785
+Año >> 2011 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2765
+Año >> 2012 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5486
+Año >> 2013 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.2159
+Año >> 2014 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9708
+Año >> 2015 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9813
+Año >> 2016 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9103
+Año >> 2017 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8008
+Año >> 2018 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.9174
+Año >> 2019 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8930
+Año >> 2020 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 1.8889
+Año >> 2021 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3647
+Año >> 2022 | País >> Uruguay | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.3060
+Total de emisiones en Uruguay >> 60.4069
+
+Año >> 1990 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.1681
+Año >> 1991 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.6883
+Año >> 1992 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.1002
+Año >> 1993 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.8552
+Año >> 1994 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.5342
+Año >> 1995 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.6421
+Año >> 1996 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.2389
+Año >> 1997 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.6285
+Año >> 1998 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 7.2485
+Año >> 1999 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.9686
+Año >> 2000 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.8472
+Año >> 2001 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.2465
+Año >> 2002 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.4803
+Año >> 2003 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.9833
+Año >> 2004 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.4435
+Año >> 2005 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.5612
+Año >> 2006 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.7411
+Año >> 2007 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.5935
+Año >> 2008 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.5669
+Año >> 2009 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.3604
+Año >> 2010 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.5929
+Año >> 2011 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.7882
+Año >> 2012 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.9626
+Año >> 2013 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 6.6501
+Año >> 2014 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.8278
+Año >> 2015 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 5.4325
+Año >> 2016 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.9570
+Año >> 2017 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 4.5226
+Año >> 2018 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.3774
+Año >> 2019 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 3.0240
+Año >> 2020 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.1746
+Año >> 2021 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.5395
+Año >> 2022 | País >> Venezuela | Emisiones de CO2 per cápita (metrics tons per cápita) >> 2.7169
+Total de emisiones en Venezuela >> 174.4626
+
+Total de emisiones en el Continente Americano >> 4621.4463
