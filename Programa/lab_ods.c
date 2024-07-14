@@ -196,6 +196,8 @@ void comp_paises(float matt[FILAS][COLUMNAS]){
     comp1 = ingresar_pais()-1;
     val1 = matt[FILAS-1][pais_user-1];
 
+    printf("\n");
+
     comp2 = ingresar_pais()-1;
     val2= matt[FILAS-1][pais_user-1];
 
@@ -217,8 +219,13 @@ void comp_paises(float matt[FILAS][COLUMNAS]){
 
 void comp_ann(float matt[FILAS][COLUMNAS]){
     comp1 = ingresar_ann() - ANIO_MIN;
+    
+    printf("\n");
+    
     comp2 = ingresar_ann() - ANIO_MIN;
-
+    
+    system("clear");
+    
     if(matt[comp1][COLUMNAS-1] > matt[comp2][COLUMNAS-1]){
         printf("En el año %d hubo mayores emisiones de CO2 con respecto a %d con %.4f y %.4f, respectivamente.\n", comp1+ANIO_MIN, comp2+ANIO_MIN, matt[comp1][COLUMNAS-1], matt[comp2][COLUMNAS-1]);
     } else
