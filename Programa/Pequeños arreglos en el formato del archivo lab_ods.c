@@ -77,7 +77,6 @@ const char* lista_de_paises(int y){
 
 
 int listar_todo(float matt[FILAS][COLUMNAS]){
-
     /* Esta función está definida como "int" porque en caso de no poder crear el archivo que escribirá, devuelve el valor entero "-1". */
 	
     FILE *archivo_salida;
@@ -136,7 +135,6 @@ void pais_menorymayor(float matt[FILAS][COLUMNAS]){
                 res_may = matt[FILAS-1][y];
             }
         }
-
     }
     const char* pais_men = lista_de_paises(men);
     const char* pais_may = lista_de_paises(may);
@@ -146,7 +144,6 @@ void pais_menorymayor(float matt[FILAS][COLUMNAS]){
 
 
 int ingresar_pais(void){
-
     printf("Indique el país según la denominación a continuación...\n");
 
     for(y = 0; y <= COLUMNAS-2; y++){
@@ -161,13 +158,11 @@ int ingresar_pais(void){
         printf("Ha ingresado un valor incorrecto.\n");
         ingresar_pais();
 	}
-
     return(pais_user);
 }
 
 
 void e_pais_user(float matt[FILAS][COLUMNAS]){
-
     ingresar_pais();
     system("clear");
 
@@ -177,7 +172,6 @@ void e_pais_user(float matt[FILAS][COLUMNAS]){
 
 
 int ingresar_ann(void){
-
     printf("Indique el año que desee evaluar desde el %d al %d, ingresando el año completo (4 dígitos) \n\n>> ", ANIO_MIN, ANIO_MAX);
 
     if(((scanf("%d%c", &ann_user, &in_cont) != 2 || in_cont != '\n') && clean_stdin()) || ann_user < ANIO_MIN || ann_user > ANIO_MAX){
@@ -185,13 +179,11 @@ int ingresar_ann(void){
         printf("Ha ingresado un valor incorrecto.\n");
         ingresar_ann();
 	}
-
     return(ann_user);
 }
 
 
 void e_ann_user(float matt[FILAS][COLUMNAS]){
-
     ingresar_ann();
     system("clear");
     printf("El número de emisiones del año %d es >> %.4f\n", ann_user, matt[ann_user-ANIO_MIN][COLUMNAS-1]);
@@ -211,6 +203,7 @@ void comp_paises(float matt[FILAS][COLUMNAS]){
     const char* pais_comp2 = lista_de_paises(comp2);
 
     system("clear");
+	
     if(val1 > val2){
         printf("%s posee un número mayor de emisiones que %s con %.4f y %.4f, respectivamente.\n", pais_comp1, pais_comp2, val1, val2);
     } else
@@ -223,7 +216,6 @@ void comp_paises(float matt[FILAS][COLUMNAS]){
 
 
 void comp_ann(float matt[FILAS][COLUMNAS]){
-
     comp1 = ingresar_ann() - ANIO_MIN;
     comp2 = ingresar_ann() - ANIO_MIN;
 
@@ -282,7 +274,6 @@ char pregunta(void){
 
 
 void inicio(void){
-
     printf("\nIngrese >> s << para iniciar el programa.\n");
     printf("Ingrese >> n << para detener la ejecución del programa.\n\n>> ");
     scanf("%s", &op);
@@ -298,12 +289,10 @@ void inicio(void){
     if(op == 'N'){
         exit(0);
     }
-
 }
 
 
 int cargar_matriz(void){
-
     /* Esta función está definida como `int` porque en caso de no poder abrir el archivo de entrada, devuelve -1. */
 
     FILE *archivo_entrada;
