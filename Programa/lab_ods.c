@@ -76,14 +76,16 @@ const char* lista_de_paises(int y){
 }
 
 
-void listar_todo(float matt[FILAS][COLUMNAS]){
+int listar_todo(float matt[FILAS][COLUMNAS]){
 
+    /* Esta función está definida como "int" porque en caso de no poder crear el archivo que escribirá, devuelve el valor entero "-1". */
+	
     FILE *archivo_salida;
     archivo_salida = fopen("listado_completo.txt", "w");
     
     if (archivo_salida == NULL) {
         printf("No se pudo abrir el archivo para escritura.\n");
-        return;
+        return (-1);
     }
 
     for(y = 0; y <= COLUMNAS-2; y++){
