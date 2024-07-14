@@ -6,6 +6,4 @@ Este programa realiza un proceso estadístico sobre datos de mediciones de CO<su
 ## Notas
 * El programa fue enteramente desarrollado y probado en computadoras GNU/Linux, más específicamente en Debian 12 Bookworm. Utilicé el compilador **gcc**, en su versión 12.2.0.
 
-* Para compilar este programa utilicé el comando `gcc lab_ods.c -lm -o ods`.s
-
-
+* El programa fue compilado con el comando `gcc lab_ods.c -lm -o ods`.
